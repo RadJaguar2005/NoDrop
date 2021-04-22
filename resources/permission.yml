@@ -1,0 +1,25 @@
+# Hier kannst du die Perms aller Commands Selber Setzen / Here can you set self the Perms all Commands
+
+ClearChat: "cmd.clearchat"
+
+Day: "cmd.day"
+
+Feed: "cmd.feed"
+
+Fly: "cmd.fly"
+
+Gamemode:
+  0: "cmd.gm0"
+  1: "cmd.gm1"
+  2: "cmd.gm2"
+  3: "cmd.gm3"
+
+Heal: "cmd.heal"
+
+Night: "cmd.night"
+
+Spec: "cmd.spec"
+
+TpAll: "cmd.tpall"
+
+KickAll: "cmd.kickall"
