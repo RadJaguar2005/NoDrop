@@ -1,0 +1,10 @@
+# Aktiviere oder Deaktiviere ob op Spieler Items Dropen können.
+
+# True = OP Spieler können Item Dropen
+# False = Op Spieler können keine Items Dropen
+
+Item-Drop: true
+
+# Setze eine Drop Nachricht wenn ein Spieler ein Item Dropen will.
+
+Message: "§cNoDrop §8» §7Du kannst keine Items Dropen."

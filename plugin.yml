@@ -1,5 +1,5 @@
-name: CMDs
-main: CMDs\Cmds
+name: NoDrop
+main: NoDrop\NoDrop
 version: 1.0.0
-api: [3.0.0, 4.0.0]
+api: 3.0.0
 author: RadJaguar2005 | Joel
